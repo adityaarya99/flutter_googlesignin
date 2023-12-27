@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1014902692259",
+    "project_id": "testauthentication-fa2d7",
+    "storage_bucket": "testauthentication-fa2d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014902692259:android:e192739be23b19b0216216",
+        "android_client_info": {
+          "package_name": "com.example.testauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRVRD07Gsslga-PW1qtmppw8shdfCLo9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
